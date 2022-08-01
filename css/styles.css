@@ -1,0 +1,103 @@
+/* navigation-bar */
+
+.bar {
+    padding-right: 50px;
+}
+
+.kitty {
+    padding-left: 15px;
+}
+
+.butt {
+    margin-right: 15px;
+}
+
+.droppy {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 5px;
+}
+
+.container {
+    padding-top: 250px;
+}
+
+body {
+    background-color:  rgb(194, 194, 194);
+    text-align: center;
+    font-family: 'Caudex', serif;
+}
+
+h1,h2 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.confirm {
+    padding: 150px 10% 15% 10%;
+}
+
+.memories {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.title {
+    padding: 5%;
+}
+
+.Freeza {
+    width: 75%;
+    margin-bottom: 50px;
+}
+
+.start-b {
+    margin: 20px 0px;
+}
+
+.p1 {
+    padding: 20px 0;
+}
+
+.p2 {
+    padding: 40px 0;
+}
+
+.p3 {
+    padding-bottom: 20px;
+}
+
+.p5 {
+    padding: 40px 0;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    padding: 5% 10%;
+    font-size: 20px;
+}
+
+.cap {
+    color: brown;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.carousel
+{border:3px dashed #333333a2}
+
+h4 {
+    color: rgb(223, 223, 223);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    font-size: 10px;
+    background-color: #333333a2;
+}
